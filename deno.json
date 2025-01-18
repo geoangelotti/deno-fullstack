@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "@hono/hono": "jsr:@hono/hono@^4.6.16",
+    "@solidjs/router": "npm:@solidjs/router@^0.15.3"
+  }
+}

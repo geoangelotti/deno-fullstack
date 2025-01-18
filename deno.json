@@ -19,6 +19,7 @@
     "jsx": "react-jsx",
     "jsxImportSource": "solid-js",
     "lib": [
+      "Deno.ns",
       "DOM",
       "DOM.Iterable",
       "ESNEXT"

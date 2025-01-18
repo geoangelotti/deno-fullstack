@@ -14,5 +14,14 @@
         "deno task build"
       ]
     }
+  },
+  "compilerOptions": {
+    "jsx": "react-jsx",
+    "jsxImportSource": "solid-js",
+    "lib": [
+      "DOM",
+      "DOM.Iterable",
+      "ESNEXT"
+    ]
   }
 }
